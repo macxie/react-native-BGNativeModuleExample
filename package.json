@@ -1,0 +1,19 @@
+{
+  "name": "react-native-bgnativemoduleexample",
+  "version": "1.0.0",
+  "description": "Test RN node module , create first module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macxie/react-native-BGNativeModuleExample.git"
+  },
+  "author": "macxie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macxie/react-native-BGNativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/macxie/react-native-BGNativeModuleExample#readme"
+}
